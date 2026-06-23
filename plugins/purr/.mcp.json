@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "purr": {
+      "command": "${CLAUDE_PLUGIN_ROOT}/purr-mcp"
+    }
+  }
+}

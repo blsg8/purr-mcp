@@ -1,0 +1,3 @@
+# The notarized binary is dropped here at release time by scripts/release-mcp.sh
+# (from the private purrside-app repo). Commit it explicitly when publishing.
+# plugins/purr/purr-mcp

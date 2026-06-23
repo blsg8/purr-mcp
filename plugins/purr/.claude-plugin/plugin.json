@@ -1,0 +1,10 @@
+{
+  "name": "purr",
+  "version": "0.1.0",
+  "description": "Read and write your local Purr notes from Claude Code. Ships a self-contained, notarized MCP engine — no Node or extra install required.",
+  "author": {
+    "name": "KatLabs"
+  },
+  "homepage": "https://github.com/blsg8/purr-mcp",
+  "keywords": ["notes", "markdown", "mcp", "purr"]
+}
